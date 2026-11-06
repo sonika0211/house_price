@@ -80,3 +80,6 @@ python generate_data.py --rows 2000
 This project is a teaching baseline, not a valuation tool. A model trained on
 synthetic data learns the generator's assumptions rather than actual housing
 market behavior.
+
+
+making a change
